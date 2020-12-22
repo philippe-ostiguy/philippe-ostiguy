@@ -1,4 +1,4 @@
-![](https://github.com/philippe-ostiguy/philippe-ostiguy/blob/main/City_2.jpg)
+![](https://github.com/philippe-ostiguy/philippe-ostiguy/blob/main/City_light.jpg)
 
 ### Hi there, my  👋
 
