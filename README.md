@@ -1,7 +1,6 @@
 ![](https://github.com/philippe-ostiguy/philippe-ostiguy/blob/main/City_light.jpg)
 
-### 
-👨‍💻 Hi there, my 
+### 👨‍💻 Hi there, my name is Philippe. I'm Data Analyst and Finance Specialist
 
 <!--
 **philippe-ostiguy/philippe-ostiguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
