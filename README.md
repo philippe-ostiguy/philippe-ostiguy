@@ -1,4 +1,4 @@
-![](https://github.com/philos123/PyBacktesting/blob/master/images/artificial-intelligence.png)
+![](https://github.com/philippe-ostiguy/philippe-ostiguy/blob/main/City_2.jpg)
 
 ### Hi there, my  👋
 
