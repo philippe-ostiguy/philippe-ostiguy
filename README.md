@@ -4,6 +4,10 @@
 ###  👨‍💻 About
 On a mission to help the company focus on value-added processes. Advocate strong team collaboration. 1 + 1 = 3... or much more!
 
+### 📫 How to reach me
+• LinkedIn : https://www.linkedin.com/in/philippe-ostiguy/ <br>
+• Resume : https://bit.ly/3axv1Y8
+
 ### ✨ My motto
 “Live as if you were to die tomorrow. Learn as if you were to live forever.” - Gandhi
 
@@ -23,7 +27,3 @@ On a mission to help the company focus on value-added processes. Advocate strong
 • Git, Bash, VBA, Bloomberg <br>
 • Customer Relationship <br>
 • Self-learning  <br>
-
-### 📫 How to reach me
-• LinkedIn : https://www.linkedin.com/in/philippe-ostiguy/ <br>
-• Resume : https://bit.ly/3axv1Y8
