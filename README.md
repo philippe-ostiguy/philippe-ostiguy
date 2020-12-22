@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://github.com/philos123/PyBacktesting/blob/master/images/artificial-intelligence.png)
+
+### Hi there, my  👋
 
 <!--
 **philippe-ostiguy/philippe-ostiguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
