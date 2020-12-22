@@ -25,5 +25,5 @@ On a mission to help the company focus on value-added processes. Advocate strong
 • Self-learning  <br>
 
 ### 📫 How to reach me
-• LinkedIn : https://www.linkedin.com/in/philippe-ostiguy/
+• LinkedIn : https://www.linkedin.com/in/philippe-ostiguy/ <br>
 • Resume : https://bit.ly/3axv1Y8
