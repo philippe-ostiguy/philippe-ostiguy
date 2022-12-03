@@ -1,5 +1,5 @@
 ![](https://github.com/philippe-ostiguy/philippe-ostiguy/blob/main/City_light.jpg)
-## Hi there, my name is Philippe. I'm Passionate Data Scientist & Finance Specialist 📊
+## Hi there, my name is Philippe. I'm a Passionate Data Scientist & Finance Specialist 📊
 
 ###  👨‍💻 About
 On a mission to help the company focus on value-added processes. Advocate strong team collaboration. 1 + 1 = 3... or much more!
