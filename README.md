@@ -1,5 +1,5 @@
 ![](https://github.com/philippe-ostiguy/philippe-ostiguy/blob/main/City_light.jpg)
-## Hi there, my name is Philippe. I'm Passionate Data Analyst & Finance Specialist 📊
+## Hi there, my name is Philippe. I'm Passionate Data Scientist & Finance Specialist 📊
 
 ###  👨‍💻 About
 On a mission to help the company focus on value-added processes. Advocate strong team collaboration. 1 + 1 = 3... or much more!
@@ -14,16 +14,15 @@ On a mission to help the company focus on value-added processes. Advocate strong
 ### 🛠️ Technical Skills
 • Advanced Analytics <br>
 • Python (pandas, NumPy, sklearn, matplotlib, SciPy) <br>
-• KPI and Financial Analysis <br>
+• Machine learning (NLP, Times Series Analysis) <br>
+• Advanced Mathematics and Statistics <br>
 • Financial Markets <br>
 • PyCharm, Jupyter, Spyder <br>
-• Advanced Mathematics and Statistics <br>
 • Data Visualization (Power BI) <br>
-• SQL <br>
-• Machine learning (Times Series Analysis, Genetic Algorithms)
+• SQL
 
 ###  💼 Management skills
 • Agile Development <br>
-• Git, Bash, VBA, Bloomberg <br>
+• Git, Bash, Bloomberg <br>
 • Customer Relationship <br>
 • Self-learning  <br>
