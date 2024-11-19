@@ -1,4 +1,7 @@
 ![](https://github.com/philippe-ostiguy/philippe-ostiguy/blob/main/City_light.jpg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1877F7&center=true&width=700&height=52&lines=Hi%2C+I'm+Philippe+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%E2%80%94+welcome+to+my+profile!)](https://git.io/typing-svg)
+
+
 ## Hi there, my name is Philippe. I'm a Passionate Data Scientist & Finance Specialist 📊
 
 ###  👨‍💻 About
