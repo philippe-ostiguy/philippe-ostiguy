@@ -1,8 +1,11 @@
-![u8135962722_DATA_SCIENCE_MINIMALIST_LIGHT_COLOR_BEIGE_PROFESI_51086cd3-8c1b-4f6c-a0c5-d3fafdb06cca_0 (1)](https://github.com/user-attachments/assets/a2b4d280-68b6-4147-a284-2c36f6e308ba)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1877F7&center=true&width=700&height=52&lines=Hi%2C+I'm+Philippe+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%E2%80%94+welcome+to+my+profile!)](https://git.io/typing-svg)
+![background_linkedin_cropped](https://github.com/user-attachments/assets/e6474c09-1f9f-421f-83a4-670b3f6d8a9c)
+<br />
+<br />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5BA8F7&center=true&width=1100&height=52&lines=Hi%2C+I'm+Philippe+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%E2%80%94+welcome+to+my+profile!)](https://git.io/typing-svg)
 
-## Hi there, my name is Philippe. I'm a Passionate Data Scientist & Finance Specialist 📊
+<h3 align="center">🎯 Leveraging Data and Machine Learning for Measurable Outcomes</h3>
+
 
 ###  👨‍💻 About
 On a mission to help the company focus on value-added processes. Advocate strong team collaboration. 1 + 1 = 3... or much more!
