@@ -10,12 +10,16 @@
 ###  👨‍💻 About
 I'm a Principal Data Scientist with a proven track record of leveraging advanced analytics and machine learning to drive business success. My work combines deep technical expertise with strong business acumen to transform complex data challenges into actionable insights and innovative solutions. 
 
-### 📫 How to reach me
-• LinkedIn : https://www.linkedin.com/in/philippe-ostiguy/ <br>
-• Resume : https://bit.ly/3axv1Y8
-
 ### ✨ My motto
 “Live as if you were to die tomorrow. Learn as if you were to live forever.” - Gandhi
+
+
+### 📝 Get to know me
+• Medium: https://ostiguyphilippe.medium.com/ <br>
+• Github: https://github.com/philippe-ostiguy/
+
+
+🤝 [**Let's connect on LinkedIn**](https://www.linkedin.com/in/philippe-ostiguy/) to stay in touch and discuss opportunities.
 
 ### 🛠️ Technical Skills
 • Advanced Analytics <br>
