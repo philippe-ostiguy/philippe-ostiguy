@@ -1,4 +1,4 @@
-![](https://github.com/philippe-ostiguy/philippe-ostiguy/blob/main/City_light.jpg)
+![u8135962722_DATA_SCIENCE_MINIMALIST_LIGHT_COLOR_BEIGE_PROFESI_51086cd3-8c1b-4f6c-a0c5-d3fafdb06cca_0 (1)](https://github.com/user-attachments/assets/a2b4d280-68b6-4147-a284-2c36f6e308ba)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1877F7&center=true&width=700&height=52&lines=Hi%2C+I'm+Philippe+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%E2%80%94+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
