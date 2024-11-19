@@ -26,6 +26,7 @@ In my spare time, I contribute to the data science community through open-source
 <br />
 <br />
 
+
 🤝 [**Let's connect on LinkedIn**](https://www.linkedin.com/in/philippe-ostiguy/) to stay in touch and discuss opportunities.
 <br />
 <br />
