@@ -5,21 +5,30 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5BA8F7&center=true&width=1100&height=52&lines=%F0%9F%91%8B+Hi%2C+I'm+Philippe++%E2%80%94+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <h3 align="center">🎯 Leveraging Data and Machine Learning for Measurable Outcomes</h3>
+<br />
 
 
 ###  👨‍💻 About
 I'm a Principal Data Scientist with a proven track record of leveraging advanced analytics and machine learning to drive business success. My work combines deep technical expertise with strong business acumen to transform complex data challenges into actionable insights and innovative solutions. 
 
+In my spare time, I contribute to the data science community through open-source projects using Python 🐍, write articles on data science, explore new technologies, or enjoy rock climbing 🧗‍♂️ and outdoor activities.
+<br />
+<br />
+
 ### ✨ My motto
 “Live as if you were to die tomorrow. Learn as if you were to live forever.” - Gandhi
-
+<br />
+<br />
 
 ### 📝 Get to know me
 • Medium: https://ostiguyphilippe.medium.com/ <br>
 • Github: https://github.com/philippe-ostiguy/
-
+<br />
+<br />
 
 🤝 [**Let's connect on LinkedIn**](https://www.linkedin.com/in/philippe-ostiguy/) to stay in touch and discuss opportunities.
+<br />
+<br />
 
 ### 🛠️ Technical Skills
 • Advanced Analytics <br>
