@@ -7,8 +7,6 @@
 
 
 <h3 align="center">🎯 Leveraging Data and Machine Learning for Measurable Outcomes</h3>
-<br />
-<br />
 
 <div>
 <img align="right" alt="Data Science Illustration" height="450" width="500" src="https://github.com/user-attachments/assets/f9e72b15-abcd-4e5a-b22e-000a1eeabdfb">
@@ -53,6 +51,5 @@ In my spare time, I **contribute to the data science community** through open-so
 <img height=30 src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
 <img height=30 src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
 <img height=30 src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white">
-
-
+<img height=30 src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff">
 
