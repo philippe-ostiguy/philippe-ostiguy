@@ -1,8 +1,9 @@
-![background_linkedin_cropped](https://github.com/user-attachments/assets/e6474c09-1f9f-421f-83a4-670b3f6d8a9c)
+![background_linkedin_cropped](https://github.com/user-attachments/assets/f1873ecc-0796-480c-b0b6-93b21306f566)
 <br />
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5BA8F7&center=true&width=1100&height=52&lines=%F0%9F%91%8B+Hi%2C+I'm+Philippe++%E2%80%94+welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=5BA8F7&center=true&width=1100&height=52&lines=%F0%9F%91%8B+Hi%2C+I'm+Philippe++%E2%80%94+welcome+to+my+profile)](https://git.io/typing-svg)
+
 
 <h3 align="center">🎯 Leveraging Data and Machine Learning for Measurable Outcomes</h3>
 <br />
