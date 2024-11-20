@@ -11,7 +11,7 @@
 <br />
 
 <div>
-<img align="right" alt="Data Science Illustration" height="500" width="500" src="https://github.com/user-attachments/assets/f9e72b15-abcd-4e5a-b22e-000a1eeabdfb">
+<img align="right" alt="Data Science Illustration" height="450" width="500" src="https://github.com/user-attachments/assets/f9e72b15-abcd-4e5a-b22e-000a1eeabdfb">
 
 
 ###  👨‍💻 About
