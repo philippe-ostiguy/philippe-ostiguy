@@ -7,30 +7,30 @@
 
 <h3 align="center">🎯 Leveraging Data and Machine Learning for Measurable Outcomes</h3>
 <br />
-
+<br />
 
 ###  👨‍💻 About
-I'm a Principal Data Scientist with a proven track record of leveraging advanced analytics and machine learning to drive business success. My work combines deep technical expertise with strong business acumen to transform complex data challenges into actionable insights and innovative solutions. 
+I'm a Principal Data Scientist with a proven track record of leveraging **advanced analytics and machine learning** to drive business success. My work combines deep technical expertise with strong business acumen to transform complex data challenges into **actionable insights and innovative solutions**. 
 
-In my spare time, I contribute to the data science community through open-source projects using Python 🐍, write articles on data science, explore new technologies, or enjoy rock climbing 🧗‍♂️ and outdoor activities.
+In my spare time, I **contribute to the data science community** through open-source projects using Python 🐍, **write articles on data science**, explore new technologies, or enjoy rock climbing 🧗‍♂️ and outdoor activities.
 <br />
 <br />
+
+<img align="right" alt="Data Science Illustration" height="500" width="500" src="https://github.com/user-attachments/assets/f9e72b15-abcd-4e5a-b22e-000a1eeabdfb">
 
 ### ✨ My motto
 “Live as if you were to die tomorrow. Learn as if you were to live forever.” - Gandhi
 <br />
 <br />
 
+
+
 ### 📝 Get to know me
-• Medium: https://ostiguyphilippe.medium.com/ <br>
-• Github: https://github.com/philippe-ostiguy/
-<br />
-<br />
-
-
+📝 [**Check out my articles**](https://ostiguyphilippe.medium.com/) on Medium  <br>
 🤝 [**Let's connect on LinkedIn**](https://www.linkedin.com/in/philippe-ostiguy/) to stay in touch and discuss opportunities.
 <br />
 <br />
+
 
 ### 🛠️ Technical Skills
 • Advanced Analytics <br>
