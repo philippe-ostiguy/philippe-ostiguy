@@ -54,6 +54,7 @@ In my spare time, I **contribute to the data science community** through open-so
 <img height=30 src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=whit">
 <img height=30 src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff">
 <img height=30 src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-
+<img height=30 src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white
+">
 
 
