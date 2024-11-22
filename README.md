@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center">🎯 Leveraging Data and Machine Learning for Measurable Outcomes</h3>
+<h3 align="center">🎯 Leveraging Data Science for Measurable Outcomes</h3>
 
 <div>
 <img align="right" alt="Data Science Illustration" height="450" width="500" src="https://github.com/user-attachments/assets/f9e72b15-abcd-4e5a-b22e-000a1eeabdfb">
