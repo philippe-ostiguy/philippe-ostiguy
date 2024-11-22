@@ -15,7 +15,7 @@
 ###  👨‍💻 About
 I'm a Principal Data Scientist with a proven track record of leveraging **advanced analytics and machine learning** to drive business success. My work combines deep technical expertise with strong business acumen to transform complex data challenges into **actionable insights and innovative solutions**. 
 
-In my spare time, I **contribute to the data science community** through open-source projects using Python 🐍, **write articles on data science**, explore new technologies, or enjoy rock climbing 🧗‍♂️ and outdoor activities.
+In my spare time, **I contribute to the data science community** through open-source projects using Python 🐍, **write articles on data science**, explore new technologies, or enjoy rock climbing 🧗‍♂️ and outdoor activities.
 <br />
 <br />
 
