@@ -45,11 +45,16 @@ In my spare time, I **contribute to the data science community** through open-so
 <img height=30 src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black">
 <img height=30 src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000">
 <img height=30 src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img height=30 src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-<img height=30 src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img height=30 src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img height=30 src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img height=30 src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white">
 <img height=30 src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
 <img height=30 src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
-<img height=30 src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white">
+<img height=30 src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+<img height=30 src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img height=30 src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=whit">
 <img height=30 src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff">
+<img height=30 src="https://img.shields.io/badge/-Scrum-FFFFFF?style=flat&logo=scrum">
+<img height=30 src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+
+
 
