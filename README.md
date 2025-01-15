@@ -28,7 +28,7 @@ In my spare time, **I contribute to the data science community** through open-so
 
 
 ### Get to know me
-🌐 [**View my portfolio**](https://philippeostiguy.ai/) where I transform data into value  <br>
+🌐 [**Explore my portfolio**](https://philippeostiguy.ai/) and state-of-the-art projects.  <br>
 📝 [**Check out my articles**](https://ostiguyphilippe.medium.com/)  on Medium  <br>
 🤝 [**Connect with me on LinkedIn**](https://www.linkedin.com/in/philippe-ostiguy/) to stay in touch and discuss opportunities.
 <br />
