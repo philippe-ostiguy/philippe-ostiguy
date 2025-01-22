@@ -1,4 +1,5 @@
-![background_linkedin_cropped](https://github.com/user-attachments/assets/f1873ecc-0796-480c-b0b6-93b21306f566)
+![3](https://github.com/user-attachments/assets/d3e96286-2dd0-41b2-97b8-224c9f2e2b5d)
+
 <br />
 <br />
 
