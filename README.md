@@ -7,14 +7,14 @@
 
 
 
-<h3 align="center">🎯 Leveraging Data Science for Measurable Outcomes</h3>
+<h3 align="center">🎯 Driving Business Value through Digital Transformation & Cutting-Edge AI</h3>
 
 <div>
 <img align="right" alt="Data Science Illustration" height="450" width="500" src="https://github.com/user-attachments/assets/f9e72b15-abcd-4e5a-b22e-000a1eeabdfb">
 
 
 ###  👨‍💻 About
-I'm a Principal Data Scientist with a proven track record of leveraging **advanced analytics and machine learning** to drive business success. My work combines deep technical expertise with strong business acumen to transform complex data challenges into **actionable insights and innovative solutions**. 
+I'm a Lead AI Scientist with a proven track record of leveraging **state-of-the-art technologies** to drive AI transformation. I merge deep technical expertise with practical business insight to help organizations reengineer traditional workflows and unlock new growth opportunities that secure **lasting competitive advantage**.
 
 In my spare time, **I contribute to the data science community** through open-source projects using Python 🐍, **write articles on data science**, explore new technologies, or enjoy rock climbing 🧗‍♂️ and outdoor activities.
 <br />
